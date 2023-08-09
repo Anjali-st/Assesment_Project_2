@@ -1,0 +1,8 @@
+D:\DotNet\Assesment_Project\ConApp_Project2\bin\Debug\ConApp_Project2.exe.config
+D:\DotNet\Assesment_Project\ConApp_Project2\bin\Debug\ConApp_Project2.exe
+D:\DotNet\Assesment_Project\ConApp_Project2\bin\Debug\ConApp_Project2.pdb
+D:\DotNet\Assesment_Project\ConApp_Project2\obj\Debug\ConApp_Project2.csproj.AssemblyReference.cache
+D:\DotNet\Assesment_Project\ConApp_Project2\obj\Debug\ConApp_Project2.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\Assesment_Project\ConApp_Project2\obj\Debug\ConApp_Project2.csproj.CoreCompileInputs.cache
+D:\DotNet\Assesment_Project\ConApp_Project2\obj\Debug\ConApp_Project2.exe
+D:\DotNet\Assesment_Project\ConApp_Project2\obj\Debug\ConApp_Project2.pdb
